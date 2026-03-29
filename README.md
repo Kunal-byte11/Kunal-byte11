@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=420&lines=Kunal+Dubey;AI%2FML+Engineer;Building+AI+Products" />
 </p>
 
-<h3 align="center">🚀 AI/ML Developer | Building AI for Real-World Impact</h3>
+<h3 align="center">🚀 Building AI systems that solve real-world problems</h3>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/kunaldubey11">
@@ -29,6 +29,8 @@
   <img src="https://komarev.com/ghpvc/?username=Kunal-byte11&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 Building **CampusCare** – an anonymous AI-powered counseling platform  
@@ -36,9 +38,19 @@
 - 🆘 Exploring **LLM fine-tuning & LLMOps**  
 - 🌱 Learning **Advanced NLP, Generative AI & Model Fine-tuning**  
 - 💬 Ask me about **FastAPI, AI chat apps, RAG systems**  
-- ⚡ Focused on **AI for mental health & real-world impact** 🧠  
+- ⚡ I believe AI should feel human, not robotic  
 
-<br>
+---
+
+### 🚀 Featured Project
+
+**CampusCare – AI Counseling Platform**
+- Built anonymous mental health support system using LLMs  
+- Implemented real-time chat with FastAPI backend  
+- Exploring RAG-based responses for contextual conversations  
+- Focused on real-world emotional AI applications  
+
+---
 
 ### 💻 Tech Stack
 
@@ -57,7 +69,20 @@
   <img src="https://img.shields.io/badge/GenAI-black?style=for-the-badge" />
 </p>
 
-<br>
+---
+
+### 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/0emWTBEQ7k/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/kunalduzjfc?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
