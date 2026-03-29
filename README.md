@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Kunal-byte11/Kunal-byte11/blob/main/WhatsApp%20Image%202026-03-29%20at%205.03.21%20PM.jpeg" width="150" style="border-radius: 50%;" />
+</p>
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Building **CampusCare** – an anonymous AI-powered counseling platform using LLMs & real-time chat  <br><br>🤝 I’m looking to collaborate on  <br>- Generative AI projects (LLMs, NLP, AI apps)  <br>- Open-source AI tools  <br><br>🆘 I’m looking for help with  <br>- LLM fine-tuning (LoRA, HuggingFace)  <br>- Scaling AI systems (LLMOps)  <br><br>🌱 I’m currently learning  <br>- Advanced NLP & Generative AI  <br>- Model fine-tuning & LLMOps  <br><br>💬 Ask me about  <br>- FastAPI, AI chat apps, RAG systems, full-stack AI  <br><br>⚡ Fun fact  <br>- I build AI products focused on **mental health + real-world impact** 🧠✨
 
@@ -11,13 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kunal-byte11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github.com/Kunal-byte11?tab=achievements&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github.com/Kunal-byte11/Talkzii_AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Kunal-byte11&icon=0&color=0)](https://visitcount.itsvg.in)
 
