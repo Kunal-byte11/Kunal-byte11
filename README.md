@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://images.unsplash.com/photo-1617814076668-7c5b5f96365e" width="100%" />
-</div>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+</div><br>
+
+<h1 align="center">Hey 👋, I'm Kunal Dubey</h1>
+<h3 align="center">🚀 AI/ML Developer | Building AI for Real-World Impact</h3>
 <p align="center"> 
 <a href="https://linkedin.com/in/kunaldubey11">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
