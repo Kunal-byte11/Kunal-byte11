@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<img align="right" alt="AI coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI coding" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkyNjRlN3RlZ3Y5YTVhbjcyMGF0eGFkdGl5d2JydzdleTczNDZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Kunal-byte11&label=Profile%20views&color=0e75b6&style=flat" /> 
