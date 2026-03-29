@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkyNjRlN3RlZ3Y5YTVhbjcyMGF0eGFkdGl5d2JydzdleTczNDZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%" />
-</div><br>
-
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" style="max-height: 300px; width: 100%; object-fit: cover;" />
+</div>>
 <h1 align="center">Hey 👋, I'm Kunal Dubey</h1>
 <h3 align="center">🚀 AI/ML Developer | Building AI for Real-World Impact</h3>
 <p align="center"> 
@@ -19,10 +18,9 @@
 </a>
 </p>
 
-<h1 align="center">Hey 👋, I'm Kunal Dubey</h1>
-<h3 align="center">🚀 AI/ML Developer | Building AI for Real-World Impact</h3><br>
+<
 
-<img align="right" alt="AI coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkyNjRlN3RlZ3Y5YTVhbjcyMGF0eGFkdGl5d2JydzdleTczNDZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Kunal-byte11&label=Profile%20views&color=0e75b6&style=flat" alt="kunal" /> 
@@ -61,23 +59,13 @@
 
 <br><br>
 
+
 ### <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=Kunal-byte11&theme=tokyonight" />
 </p>
-
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kunal-byte11&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Kunal-byte11&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Kunal-byte11&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
