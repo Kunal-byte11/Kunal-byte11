@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" style="max-height: 300px; width: 100%; object-fit: cover;" />
-</div>>
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" style="max-height: 220px; width: 100%; object-fit: cover;" />
+</div>
 <h1 align="center">Hey 👋, I'm Kunal Dubey</h1>
 <h3 align="center">🚀 AI/ML Developer | Building AI for Real-World Impact</h3>
 <p align="center"> 
