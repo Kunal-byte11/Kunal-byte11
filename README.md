@@ -1,20 +1,81 @@
-<p align="center">
-  <img src="https://github.com/Kunal-byte11/Kunal-byte11/blob/main/WhatsApp%20Image%202026-03-29%20at%205.03.21%20PM.jpeg" width="150" style="border-radius: 50%;" />
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/Kunal-byte11/Kunal-byte11/main/WhatsApp%20Image%202026-03-29%20at%205.03.21%20PM.jpeg" width="150" style="border-radius: 50%;" />
+</div><br>
+
+<p align="center"> 
+<a href="https://linkedin.com/in/kunaldubey11">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kunaldubey975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/hey_kunal11">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://bsky.app/profile/Kunal-byte11">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>
 </p>
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Building **CampusCare** – an anonymous AI-powered counseling platform using LLMs & real-time chat  <br><br>🤝 I’m looking to collaborate on  <br>- Generative AI projects (LLMs, NLP, AI apps)  <br>- Open-source AI tools  <br><br>🆘 I’m looking for help with  <br>- LLM fine-tuning (LoRA, HuggingFace)  <br>- Scaling AI systems (LLMOps)  <br><br>🌱 I’m currently learning  <br>- Advanced NLP & Generative AI  <br>- Model fine-tuning & LLMOps  <br><br>💬 Ask me about  <br>- FastAPI, AI chat apps, RAG systems, full-stack AI  <br><br>⚡ Fun fact  <br>- I build AI products focused on **mental health + real-world impact** 🧠✨
 
+<h1 align="center">Hey 👋, I'm Kunal Dubey</h1>
+<h3 align="center">🚀 AI/ML Developer | Building AI for Real-World Impact</h3><br>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Kunal-byte11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey_kunal11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunaldubey11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunaldubey975@gmail.com) 
+<img align="right" alt="AI coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kunal-byte11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Kunal-byte11&label=Profile%20views&color=0e75b6&style=flat" alt="kunal" /> 
+</p>
+
+- 🔭 I’m currently working on **CampusCare** – an anonymous AI-powered counseling platform  
+
+- 🤝 I’m looking to collaborate on **Generative AI projects (LLMs, NLP, AI apps)**  
+
+- 🆘 I’m looking for help with **LLM fine-tuning & LLMOps**  
+
+- 🌱 I’m currently learning **Advanced NLP, Generative AI & Model Fine-tuning**  
+
+- 💬 Ask me about **FastAPI, AI chat apps, RAG systems, full-stack AI**  
+
+- ⚡ I build AI products focused on **mental health + real-world impact** 🧠  
+
+<br><br><br>
+
+### <p align="center">💻 Tech Stack</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,nextjs,fastapi,mongodb,postgresql,git,github,docker" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,supabase,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%23000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenerativeAI-%23000000.svg?style=for-the-badge" />
+</p>
+
+<br><br>
+
+### <p align="center">📊 GitHub Stats</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kunal-byte11&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-byte11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Kunal-byte11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Kunal-byte11&icon=0&color=0" />
+</p>
+
