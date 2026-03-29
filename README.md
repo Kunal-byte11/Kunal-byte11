@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/Kunal-byte11/Kunal-byte11/main/WhatsApp%20Image%202026-03-29%20at%205.03.21%20PM.jpeg" width="150" style="border-radius: 50%;" />
-</div><br>
-
+  <img src="https://images.unsplash.com/photo-1617814076668-7c5b5f96365e" width="100%" />
+</div>
 <p align="center"> 
 <a href="https://linkedin.com/in/kunaldubey11">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
