@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkyNjRlN3RlZ3Y5YTVhbjcyMGF0eGFkdGl5d2JydzdleTczNDZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%" />
 </div><br>
 
 <h1 align="center">Hey 👋, I'm Kunal Dubey</h1>
