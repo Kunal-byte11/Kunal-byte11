@@ -18,7 +18,7 @@
   <a href="https://instagram.com/hey_kunal11">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://bsky.app/profile/Kunal-byte11">
+  <a href="https://bsky.app/profile/Kunal__byte11">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
   </a>
 </p>
